@@ -1,4 +1,4 @@
-name: build swpwn docker image
+name: build pwn-env docker image
 on:
   push:
     branches: main
